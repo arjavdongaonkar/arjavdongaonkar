@@ -1,11 +1,3 @@
-## Hi there 👋
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx arjav
-```
----
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arjavdongaonkar.arjavdongaonkar">
 
 <h1 align="center">
@@ -13,27 +5,36 @@ npx arjav
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<br>
+👇 Hit in your console or terminal to connect with me.
 
-<h5 align="center">
-  <code><a href="https://in.linkedin.com/in/arjav-dongaonkar-a94728173" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://arjavdongaonkar.medium.com/" title="Medium"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-</h5>
+```bash
+npx arjav
+```
+
+* 👻   Hi, I'm Arjav Dongaonkar, Software Developer from India
+* 🐢   A full stack. Recent focus on Infra. Working as a Software Engineer at Turtlemint
+* 🎓   Degree in Electronics and Communication Engineering at IIIT Surat, GPA 8.71/10.0, TOP 5%.
+* 🌱   Currently learning Linux, Java, Python, History & Philosophy.
+* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
+* 💻   With 3 years' development working experience, I love writing code and learn anythings about it.
+* ✍🏻   I write my personal thoughts on Programming & Tech On [Medium](https://arjavdongaonkar.medium.com/).
+* 💬   Ask me anything about from <a href="https://github.com/arjavdongaonkar/arjavdongaonkar/issues" title="Issues">Here</a>
+* 📫   How to reach me: <a href="mailto: arjavdongaonkar@gmail.com">arjavdongaonkar@gmail.com</a>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
 <p align="center">
-  Hi, I'm Arjav Dongaonkar, Software Developer from India
-  <br>
-  <br>
-  🐢 I'm currently working at Turtlemint.
-  <br>
-  🎓 I graduated from IIIT Surat, Electronics and Communication Engineering.
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/arjavdongaonkar/arjavdongaonkar/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: arjavdongaonkar@gmail.com">arjavdongaonkar@gmail.com</a>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Spring Boot" height="25" src="images/java-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
 </p>
-
+<hr>
 
 <!--
 **arjavdongaonkar/arjavdongaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
