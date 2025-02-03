@@ -27,7 +27,7 @@ npx arjav
 <br>
 <p align="center">
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Spring Boot" height="25" src="images/springbot.svg"></code>
+  <code><img title="Spring Boot" height="25" src="images/spring-boot.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
