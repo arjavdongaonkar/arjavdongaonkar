@@ -12,7 +12,7 @@
 npx arjav
 ```
 
-* 👻   Hi, I'm Arjav Dongaonkar, Software Developer from India
+* 👻   Hi, I'm Arjav Dongaonkar, Software Developer from India, find me [here](https://arjavdongaonkar.com)
 * 🐢   A full stack. Recent focus on Infra. Working as a Software Engineer at Turtlemint
 * 🎓   Degree in Electronics and Communication Engineering at IIIT Surat, GPA 8.71/10.0, TOP 5%.
 * 🌱   Currently learning Linux, Java, Python, History & Philosophy.
